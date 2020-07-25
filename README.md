@@ -10,6 +10,10 @@ The navigation between scenes is made using a combination of buttons on the scre
 
 The beginning of the tutorial is made by the detection of a marker in an automatic way.
 
+## Done
+
+<img src="https://github.com/RCarapinha/LabAR/blob/master/Images/LabAR.gif" width="500">
+
 ## TBD:
 * Implement in the classroom;
 * Create 2 versions: A user and a developer one. The user version would be what we already have and the developer one we could take pictures of a target, create the circuit and then share with all the users;
